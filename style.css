@@ -1,0 +1,4 @@
+QPushButton#pushButtonBitStock:pressed {
+    background: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0.0248756 rgba(203, 53, 107, 255), stop:1 rgba(189, 63, 50, 255));
+	color: white;
+}
